@@ -1,7 +1,7 @@
 # DevCamp
 Solutions for DevCamp 05/2018
 
-### The Great Samurai Battle
+## The Great Samurai Battle
 
 The samurai masters are the great warriors of honor and dignity, they never flee from battle and even when they lose they do it with honor. Nowadays we have more peaceful ways to represent those furious battles.
 You will receive a sequence of integers, separated by spaces – the samurai masters, 
@@ -51,7 +51,7 @@ There is 1 element left, so we stop the program.
 
 ---------------------------------------------------------------------------------------------------
 
-### Survival Message
+## Survival Message
 
 You are involved in a warfare, of course you are not a typical soldier, instead you are the squad programmer. Your forces were surrounded by enemies, but you are not discovered yet since you are in a deep cover inside a building. You have to send message to the headquarters, but it has to be special, should look more like an interference, because otherwise it will be detected by the enemy.
 The message is formed by five elements two numbers from [1…99] and three letters. The elements should be in the following order:
@@ -117,7 +117,7 @@ M
 
 ---------------------------------------------------------------------------------------------------
 
-### Heroes Selection
+## Heroes Selection
 
 Have you seen the unseen magic? Right… It doesn’t actually matter, but there is something growing beneath the northen icecap and it’s growing fast, changing everything on it’s way. The magic changed its colour too and it's, well, we can say prefferences, are not what they used to be. First of all magic preffers to be treated as a lady. “She” can handle the monstrous uprise but she needs your help to find the most worthy hero of them all to join magic and traits in the final blow.  
 You will receive input lines with information about current hero in the following format:
@@ -143,7 +143,7 @@ The input ends when you receive the command "Make a decision already!".
 Output
 As an output you must print all the heroes ordered in the way specified above.
 The format is:
- # {hero’s name}: {total sum of traits values}
+### {hero’s name}: {total sum of traits values}
 !!! {trait} -> {traitValue}
 Constraints
 The hero’s name and trait will be strings, consisting of one word each.
@@ -161,33 +161,33 @@ Ivan Greedy 1
 Ivan Smart 5
 Asen Greedy 20
 Make a decision already!
-# Tony: 120
+### Tony: 120
 !!! Handsome -> 120
-# Asen: 46
+### Asen: 46
 !!! Kind -> 66
 !!! Greedy -> -20
-# Ivan: 24
+### Ivan: 24
 !!! Smart -> 25
 !!! Greedy -> -1
-# Johnny: 0
+### Johnny: 0
 Pesho Cool 20
 Gosho Rude 20
 Kiro Kind 10
 Stamat does Gyubek!
 Stamat Big 20
 Make a decision already!
-# Kiro: 20
+### Kiro: 20
 !!! Kind -> 20
-# Pesho: 20
+### Pesho: 20
 !!! Cool -> 20
-# Stamat: 20
+### Stamat: 20
 !!! Big -> 20
-# Gosho: -20
+### Gosho: -20
 !!! Rude -> -20
 
 ---------------------------------------------------------------------------------------------------
 
-### Dragons Hatching
+## Dragons Hatching
 
 Teamwork is importatn but team points is what matters the most especially if we have a team full of dragons. Your task is to write down a program that calculates the points in a local dragon hatching competition. Never heard of dragon hatching before? Nevermind the rules are simple anyway.
 You will receive N, an integer – the count of teams participant in the competition. 
