@@ -1,0 +1,10 @@
+C:\Users\John\Desktop\DevCamp888\CampSolutions\HeroesSelection\bin\Debug\netcoreapp2.0\HeroesSelection.deps.json
+C:\Users\John\Desktop\DevCamp888\CampSolutions\HeroesSelection\bin\Debug\netcoreapp2.0\HeroesSelection.runtimeconfig.json
+C:\Users\John\Desktop\DevCamp888\CampSolutions\HeroesSelection\bin\Debug\netcoreapp2.0\HeroesSelection.runtimeconfig.dev.json
+C:\Users\John\Desktop\DevCamp888\CampSolutions\HeroesSelection\bin\Debug\netcoreapp2.0\HeroesSelection.dll
+C:\Users\John\Desktop\DevCamp888\CampSolutions\HeroesSelection\bin\Debug\netcoreapp2.0\HeroesSelection.pdb
+C:\Users\John\Desktop\DevCamp888\CampSolutions\HeroesSelection\obj\Debug\netcoreapp2.0\HeroesSelection.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\DevCamp888\CampSolutions\HeroesSelection\obj\Debug\netcoreapp2.0\HeroesSelection.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\DevCamp888\CampSolutions\HeroesSelection\obj\Debug\netcoreapp2.0\HeroesSelection.AssemblyInfo.cs
+C:\Users\John\Desktop\DevCamp888\CampSolutions\HeroesSelection\obj\Debug\netcoreapp2.0\HeroesSelection.dll
+C:\Users\John\Desktop\DevCamp888\CampSolutions\HeroesSelection\obj\Debug\netcoreapp2.0\HeroesSelection.pdb

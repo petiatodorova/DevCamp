@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\DevCamp888\CampSolutions\SamuraisBattle\obj\Debug\netcoreapp2.0\SamuraisBattle.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\DevCamp888\CampSolutions\SamuraisBattle\obj\Debug\netcoreapp2.0\SamuraisBattle.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\DevCamp888\CampSolutions\SamuraisBattle\obj\Debug\netcoreapp2.0\SamuraisBattle.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\DevCamp888\CampSolutions\SamuraisBattle\obj\Debug\netcoreapp2.0\SamuraisBattle.AssemblyInfo.cs
+C:\Users\John\Desktop\DevCamp888\CampSolutions\SamuraisBattle\bin\Debug\netcoreapp2.0\SamuraisBattle.deps.json
+C:\Users\John\Desktop\DevCamp888\CampSolutions\SamuraisBattle\bin\Debug\netcoreapp2.0\SamuraisBattle.runtimeconfig.json
+C:\Users\John\Desktop\DevCamp888\CampSolutions\SamuraisBattle\bin\Debug\netcoreapp2.0\SamuraisBattle.runtimeconfig.dev.json
+C:\Users\John\Desktop\DevCamp888\CampSolutions\SamuraisBattle\bin\Debug\netcoreapp2.0\SamuraisBattle.dll
+C:\Users\John\Desktop\DevCamp888\CampSolutions\SamuraisBattle\bin\Debug\netcoreapp2.0\SamuraisBattle.pdb
+C:\Users\John\Desktop\DevCamp888\CampSolutions\SamuraisBattle\obj\Debug\netcoreapp2.0\SamuraisBattle.dll
+C:\Users\John\Desktop\DevCamp888\CampSolutions\SamuraisBattle\obj\Debug\netcoreapp2.0\SamuraisBattle.pdb
